@@ -1,1 +1,1 @@
-my first readme
+Tech is Amazing.
